@@ -5,6 +5,8 @@ date: "2019-05-27"
 
 I just launched a new bootcamp!
 
+![Sea](./sea.jpeg)
+
 ## Topics Covered
 
 1. Gatsby
